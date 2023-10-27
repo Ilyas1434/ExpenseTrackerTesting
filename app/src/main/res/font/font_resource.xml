@@ -3,9 +3,9 @@
     <font
         android:fontStyle="normal"
         android:fontWeight="400"
-        android:font="@font/" />
+        android:font="@font/lexend" />
     <font
         android:fontStyle="italic"
         android:fontWeight="400"
-        android:font="@font/" />
+        android:font="@font/lexend" />
 </font-family>
